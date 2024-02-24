@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "n": "^9.2.0",
+    "next": "^13.1.6",
+    "npm": "^10.4.0",
+    "nvm": "^0.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "zerotousers",
+  "description": "Project of implementation of a website with data base and users.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
