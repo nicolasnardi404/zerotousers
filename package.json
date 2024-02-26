@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "brew": "^0.0.8",
     "docker": "^1.0.0",
     "docker-compose": "^0.24.6",
     "n": "^9.2.0",
